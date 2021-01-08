@@ -1,17 +1,29 @@
 
 Building a Spotify Recommender based on Song Features
 
+<center> <img src="gold_1x.jpg"> 
+</center>
 
 # Case Study Description: The site for recommendations - "Gnod"
 
 1- Web scraping using beautifulsoup to get Billboard Hot 100
+
 2- Spotify API to get Soptify dataset
+
 3- Clustring using Kmeans (5 Clusters)
+
 4- Flexible search (Song/Artist)
+
 5- You will get your results in case of mistyping with 40% error  
 
 
 ## Scenario
+
+
+<center> <img src="Project.JPG"> 
+</center>
+
+
 
 You have been hired as a Data Analyst for "Goldfinch".
 
@@ -25,10 +37,9 @@ Jane, CTO of Gnod, has sent you an email assigning you with your first task.
 
 ##  1. Exploring & Preparing the Data
 
-- Understanding the context.
-- Cleaning
-- Initial correlation analysis
-- Engineering new features based on location
-- Location-based Feature Engineering Notebook: `regression_project_anna.ipynb` and `Regression Project Manu.ipynb`
-- City-based Feature Engineering Notebook: House `price prediction - Ahmed .ipynb`
+- Web Scraping Hot100 Notebook: ``
+- Spotify API Notebook:  `notebooks/spotify.ipynb`
+- Modeling Notebook: `notebooks/Kmeans_Model.ipynb`
+- Main Function Notebook: `notebooks/goldfinch.ipynb`
+
 
