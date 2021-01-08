@@ -39,7 +39,7 @@ Jane, CTO of Gnod, has sent you an email assigning you with your first task.
 
 - Web Scraping Hot100 Notebook: `notebooks/hot100.ipynb`
 - Spotify API Notebook:  `notebooks/spotify.ipynb`
-- Modeling Notebook: `notebooks/Kmeans_Model.ipynb`
+- Modelling Notebook: `notebooks/Kmeans_Model.ipynb`
 - Main Function Notebook: `notebooks/goldfinch.ipynb`
 
 
