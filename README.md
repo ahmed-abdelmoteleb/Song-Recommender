@@ -1,6 +1,6 @@
 # Music Recommendation System
 
-Building a Spotify Recommender based on Song Features
+Building a Song Recommender based on Audio Features
 
 <center> <img src="gold_1x.jpg"> 
 </center>
